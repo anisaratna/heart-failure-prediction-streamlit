@@ -34,7 +34,7 @@ To bridge the gap between data science and clinical application, the optimized m
 * **Interactive Dashboards (Plotly):** Displays a Gauge Chart for prediction confidence levels and a Bar Chart for probability distributions.
 
 ## Repository Structure
-* `notebook.ipynb`: The Google Colab notebook containing data exploration, SMOTE, and model training.
+* `train_model.py`: The Google Colab notebook containing data exploration, SMOTE, and model training.
 * `app.py`: The Streamlit web application script.
-* `model.joblib`: The exported optimized Decision Tree model.
+* `heart_failure_model.joblib`: The exported optimized Decision Tree model.
 * `README.md`: Project documentation.
